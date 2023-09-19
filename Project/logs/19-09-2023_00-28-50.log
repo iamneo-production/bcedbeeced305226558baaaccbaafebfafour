@@ -1,0 +1,6 @@
+Sep 19, 2023 12:28:52 AM utils.Base openBrowser
+INFO: Browser Launched
+Sep 19, 2023 12:28:53 AM utils.Base openBrowser
+INFO: Browser Loaded the URL
+Sep 19, 2023 12:29:01 AM runner.Testcase1 afterMethod
+INFO: Browser closed
